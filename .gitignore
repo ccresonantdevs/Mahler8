@@ -1,0 +1,8 @@
+# Local full-text evidence; preserve locally but do not publish to Git.
+sources_raw/
+
+# VitePress build output & dependencies
+node_modules/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+.DS_Store

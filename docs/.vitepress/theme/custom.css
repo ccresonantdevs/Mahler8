@@ -1,0 +1,434 @@
+/* ==========================================================================
+   Mahler VIII Reader: Mobile-First Visual Design & Typography
+   Visual Tone: Carefully edited cultural / music reader
+   ========================================================================== */
+
+:root {
+  --vp-c-brand-1: #2563eb;
+  --vp-c-brand-2: #1d4ed8;
+  --vp-c-brand-soft: rgba(37, 99, 235, 0.08);
+  --vp-sidebar-bg-color: #f8fafc;
+}
+
+.dark {
+  --vp-c-brand-1: #3b82f6;
+  --vp-c-brand-2: #60a5fa;
+  --vp-c-brand-soft: rgba(59, 130, 246, 0.12);
+  --vp-sidebar-bg-color: #0b0f19;
+}
+
+/* ==========================================================================
+   1. Author Attribution & Compact Home Hero (消除過多空白，聚焦序章正文)
+   ========================================================================== */
+.VPHome {
+  margin-bottom: 48px !important;
+}
+
+.VPHero {
+  padding-top: calc(var(--vp-nav-height) + 16px) !important;
+  padding-bottom: 16px !important;
+}
+
+@media (min-width: 640px) {
+  .VPHero {
+    padding-top: calc(var(--vp-nav-height) + 24px) !important;
+    padding-bottom: 20px !important;
+  }
+}
+
+@media (min-width: 960px) {
+  .VPHero {
+    padding-top: calc(var(--vp-nav-height) + 28px) !important;
+    padding-bottom: 24px !important;
+  }
+}
+
+.VPHero .container {
+  max-width: 780px !important;
+  margin: 0 auto !important;
+  text-align: center !important;
+  justify-content: center !important;
+}
+
+.VPHero .main {
+  max-width: 100% !important;
+  margin: 0 auto !important;
+  text-align: center !important;
+}
+
+.VPHero .name {
+  font-size: 2.25rem !important;
+  line-height: 1.25 !important;
+  letter-spacing: -0.02em !important;
+}
+
+.VPHero .text {
+  font-size: 1.25rem !important;
+  line-height: 1.35 !important;
+  margin-top: 4px !important;
+  color: var(--vp-c-text-2) !important;
+}
+
+.VPHero .tagline {
+  font-size: 0.98rem !important;
+  font-weight: 500 !important;
+  color: var(--vp-c-text-2) !important;
+  letter-spacing: 0.05em !important;
+  margin-top: 8px !important;
+  margin-bottom: 12px !important;
+  display: inline-block !important;
+  padding: 3px 12px !important;
+  background-color: var(--vp-c-bg-soft) !important;
+  border-radius: 16px !important;
+  border: 1px solid var(--vp-c-divider) !important;
+}
+
+.VPHero .actions {
+  padding-top: 10px !important;
+  justify-content: center !important;
+}
+
+/* 首頁序章正文容器收斂上下邊距，第一時間進入視線 */
+.VPHome .vp-doc {
+  max-width: 780px !important;
+  margin: 0 auto !important;
+  padding: 0 24px !important;
+}
+
+.VPHome .vp-doc .container {
+  max-width: 780px !important;
+}
+
+.VPHome .vp-doc h2 {
+  margin-top: 1.6rem !important;
+  margin-bottom: 1rem !important;
+}
+
+/* 頁尾低調作者宣告 */
+.VPFooter {
+  padding: 28px 24px calc(24px + env(safe-area-inset-bottom)) !important;
+  border-top: 1px solid var(--vp-c-divider) !important;
+}
+
+.VPFooter .message,
+.VPFooter .copyright {
+  font-size: 0.84rem !important;
+  color: var(--vp-c-text-3) !important;
+  line-height: 1.6 !important;
+}
+
+/* ==========================================================================
+   2. Mobile-First Reading Typography & Content Layout
+   ========================================================================== */
+.VPDoc .content-container {
+  max-width: 780px !important;
+}
+
+/* 內文自然斷字，防止德文/拉丁文長字造成手機橫向溢出 (Overflow) */
+.VPDoc p,
+.VPDoc li,
+.VPDoc blockquote,
+.VPDoc h1,
+.VPDoc h2,
+.VPDoc h3,
+.VPDoc h4 {
+  overflow-wrap: break-word !important;
+  word-break: break-word !important;
+}
+
+.VPDoc p {
+  line-height: 1.88 !important;
+  margin-bottom: 1.4em !important;
+  font-size: 1.05rem !important;
+  letter-spacing: 0.01em !important;
+}
+
+.VPDoc h1 {
+  margin-bottom: 1.4rem !important;
+  line-height: 1.32 !important;
+  font-weight: 800 !important;
+  letter-spacing: -0.01em !important;
+}
+
+.VPDoc h2 {
+  margin-top: 2.6rem !important;
+  margin-bottom: 1.1rem !important;
+  padding-bottom: 0.5rem !important;
+  border-bottom: 1px solid var(--vp-c-divider) !important;
+  font-size: 1.35rem !important;
+  font-weight: 700 !important;
+}
+
+.VPDoc h3 {
+  margin-top: 2rem !important;
+  margin-bottom: 0.8rem !important;
+  font-size: 1.15rem !important;
+  font-weight: 600 !important;
+}
+
+/* 引用區塊（詩句、歌詞、文獻引言） */
+.VPDoc blockquote {
+  margin: 1.8rem 0 !important;
+  padding: 14px 20px !important;
+  border-left: 3px solid var(--vp-c-brand-1) !important;
+  background-color: var(--vp-c-bg-soft) !important;
+  border-radius: 0 8px 8px 0 !important;
+  font-size: 0.98rem !important;
+  line-height: 1.75 !important;
+  color: var(--vp-c-text-2) !important;
+}
+
+.VPDoc blockquote p {
+  margin-bottom: 0.5em !important;
+}
+
+.VPDoc blockquote p:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* 表格在窄螢幕上的水平平滑捲動 */
+.VPDoc table {
+  display: block !important;
+  width: 100% !important;
+  overflow-x: auto !important;
+  -webkit-overflow-scrolling: touch !important;
+  margin: 1.5rem 0 !important;
+  border-collapse: collapse !important;
+}
+
+/* ==========================================================================
+   3. Previous / Next Chapter Buttons (大拇指觸控友善)
+   ========================================================================== */
+.VPDocFooter .prev-next {
+  border-top: 1px solid var(--vp-c-divider) !important;
+  padding-top: 24px !important;
+  margin-top: 12px !important;
+  display: grid !important;
+  grid-template-columns: 1fr 1fr !important;
+  gap: 14px !important;
+}
+
+.VPDocFooter .pager-link {
+  min-height: 64px !important;
+  padding: 12px 16px !important;
+  border-radius: 10px !important;
+  border: 1px solid var(--vp-c-divider) !important;
+  background-color: var(--vp-c-bg) !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03) !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+.VPDocFooter .pager-link:hover {
+  border-color: var(--vp-c-brand-1) !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.06) !important;
+}
+
+.VPDocFooter .pager-link .desc {
+  font-size: 0.78rem !important;
+  font-weight: 600 !important;
+  color: var(--vp-c-text-3) !important;
+  letter-spacing: 0.05em !important;
+}
+
+.VPDocFooter .pager-link .title {
+  font-size: 0.92rem !important;
+  font-weight: 600 !important;
+  color: var(--vp-c-text-1) !important;
+  line-height: 1.4 !important;
+  margin-top: 2px !important;
+}
+
+/* 手機版上下章按鈕堆疊 */
+@media (max-width: 640px) {
+  .VPDocFooter .prev-next {
+    grid-template-columns: 1fr !important;
+    gap: 10px !important;
+  }
+}
+
+/* ==========================================================================
+   4. Sidebar: Clean Book-Chapter Button Layout
+   ========================================================================== */
+.VPSidebarGroup {
+  margin-bottom: 24px !important;
+}
+
+.VPSidebarGroup .title {
+  font-size: 0.78rem !important;
+  font-weight: 800 !important;
+  letter-spacing: 0.06em !important;
+  text-transform: uppercase !important;
+  color: var(--vp-c-text-3) !important;
+  padding: 4px 10px 8px !important;
+  margin-bottom: 8px !important;
+  border-bottom: 1px dashed var(--vp-c-divider) !important;
+}
+
+.VPSidebarItem {
+  margin-bottom: 10px !important;
+}
+
+.VPLink.link.VPSidebarItem {
+  display: block !important;
+  padding: 10px 14px !important;
+  margin: 8px 0 !important;
+  border-radius: 8px !important;
+  background-color: var(--vp-c-bg) !important;
+  border: 1px solid var(--vp-c-divider) !important;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03) !important;
+  line-height: 1.55 !important;
+  font-size: 0.90rem !important;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+.VPLink.link.VPSidebarItem:hover {
+  background-color: var(--vp-c-bg-mute) !important;
+  border-color: var(--vp-c-brand-1) !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.06) !important;
+}
+
+.VPLink.link.VPSidebarItem.is-active {
+  background-color: #eff6ff !important;
+  border-color: var(--vp-c-brand-1) !important;
+  font-weight: 600 !important;
+  color: var(--vp-c-brand-1) !important;
+  box-shadow: 0 0 0 1px var(--vp-c-brand-1) !important;
+}
+
+.dark .VPLink.link.VPSidebarItem.is-active {
+  background-color: #172554 !important;
+  border-color: #3b82f6 !important;
+  color: #93c5fd !important;
+}
+
+/* 側邊欄大標與小標分離樣式 */
+.sb-item {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 3px !important;
+  width: 100% !important;
+}
+
+.sb-title {
+  font-weight: 700 !important;
+  font-size: 0.88rem !important;
+  color: var(--vp-c-text-1) !important;
+  line-height: 1.35 !important;
+  display: block !important;
+}
+
+.sb-sub {
+  font-weight: 400 !important;
+  font-size: 0.76rem !important;
+  color: var(--vp-c-text-3) !important;
+  line-height: 1.35 !important;
+  display: block !important;
+}
+
+.VPLink.link.VPSidebarItem.is-active .sb-title {
+  color: var(--vp-c-brand-1) !important;
+}
+
+.VPLink.link.VPSidebarItem.is-active .sb-sub {
+  color: var(--vp-c-brand-2) !important;
+}
+
+.dark .VPLink.link.VPSidebarItem.is-active .sb-sub {
+  color: #93c5fd !important;
+}
+
+/* 章首核心原文對照區塊樣式 */
+.chapter-meta-terms {
+  margin: 1.2rem 0 2rem 0 !important;
+  padding: 10px 16px !important;
+  background-color: var(--vp-c-bg-soft) !important;
+  border-left: 3px solid var(--vp-c-brand-1) !important;
+  border-radius: 0 8px 8px 0 !important;
+  font-size: 0.86rem !important;
+  color: var(--vp-c-text-2) !important;
+  line-height: 1.6 !important;
+}
+
+.chapter-subtitle {
+  font-size: 1.15rem !important;
+  color: var(--vp-c-text-2) !important;
+  font-weight: 500 !important;
+  margin-top: -0.8rem !important;
+  margin-bottom: 1.2rem !important;
+  letter-spacing: 0.02em !important;
+}
+
+/* ==========================================================================
+   5. Home TOC Cards
+   ========================================================================== */
+.chapter-toc-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.toc-group-card {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  padding: 18px 22px;
+  background-color: var(--vp-c-bg-soft);
+}
+
+.toc-group-title {
+  font-weight: 700;
+  font-size: 1.02rem;
+  margin-bottom: 12px;
+  color: var(--vp-c-brand-1);
+}
+
+.toc-links {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.toc-link-item {
+  text-decoration: none !important;
+  color: var(--vp-c-text-1) !important;
+  padding: 10px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--vp-c-divider);
+  background-color: var(--vp-c-bg);
+  transition: all 0.2s ease;
+  min-height: 52px;
+  display: flex;
+  align-items: center;
+}
+
+.toc-link-content {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.toc-link-title {
+  font-size: 0.96rem;
+  font-weight: 700;
+  color: var(--vp-c-text-1);
+}
+
+.toc-link-sub {
+  font-size: 0.82rem;
+  color: var(--vp-c-text-3);
+  line-height: 1.35;
+}
+
+.toc-link-item:hover {
+  border-color: var(--vp-c-brand-1);
+  transform: translateX(4px);
+}
+
+.toc-link-item:hover .toc-link-title {
+  color: var(--vp-c-brand-1) !important;
+}
