@@ -1,4 +1,8 @@
-# 第三章｜讀懂 Mahler（馬勒）選中的《Faust》（《浮士德》）：一個永遠不能停下來的人
+# 讀懂馬勒選中的浮士德
+
+<p class="chapter-subtitle">一個永遠不能停下來的人</p>
+
+<div class="chapter-meta-terms"><strong>章名詞語對照</strong>：馬勒—Gustav Mahler；浮士德—Faust</div>
 
 如果你和魔鬼打賭，條件是：「只要我對任何一刻感到滿足，靈魂就歸你。」你會怎麼度過一生？
 

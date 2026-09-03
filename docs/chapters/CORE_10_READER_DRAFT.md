@@ -1,4 +1,8 @@
-# 第十章｜交響曲、祈禱還是烏托邦？六個名字如何改變我們聽見的作品
+# 交響曲、祈禱還是烏托邦？
+
+<p class="chapter-subtitle">六個名字如何改變我們聽見的作品</p>
+
+<div class="chapter-meta-terms"><strong>章名詞語對照</strong>：交響曲—<em>symphony</em>；烏托邦—<em>utopia</em></div>
 
 替《馬勒第八》寫下一個名稱很容易：交響曲。
 

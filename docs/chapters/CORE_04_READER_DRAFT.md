@@ -1,4 +1,8 @@
-# 第四章｜Faust（浮士德）做過那些事，天使為什麼還要救他？
+# 浮士德做過那些事
+
+<p class="chapter-subtitle">天使為什麼還要救他？</p>
+
+<div class="chapter-meta-terms"><strong>章名詞語對照</strong>：浮士德—Faust</div>
 
 Faust 死後，沒有等到一場莊嚴的法庭宣判。
 

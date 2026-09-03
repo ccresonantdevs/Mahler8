@@ -1,5 +1,7 @@
 # 主要參考文獻
 
+<p class="chapter-subtitle">原始文本、Mahler、Faust 與文化史研究</p>
+
 ## 原始文本與史料
 
 - Goethe, Johann Wolfgang von. *Faust: Der Tragödie zweiter Teil*. Project Gutenberg eBook no. 2230. Released 2000; updated 2020.

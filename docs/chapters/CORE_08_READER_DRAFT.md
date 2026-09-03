@@ -1,4 +1,8 @@
-# 第八章｜兩部《馬勒第八》如何變成同一部作品？
+# 兩座世界的重疊
+
+<p class="chapter-subtitle">兩部《馬勒第八號》如何變成同一部作品？</p>
+
+<div class="chapter-meta-terms"><strong>章名詞語對照</strong>：馬勒—Gustav Mahler；《第八號交響曲》— <em>Symphonie Nr. 8</em></div>
 
 第二部的天使唱出《Faust》（《浮士德》）最著名的救贖句之一：「凡持續追求並竭力者，我們能拯救他。」依音樂學者 Eftychia Papanikolaou 的譜面分析，就在這時，第一部的音樂回來了。
 

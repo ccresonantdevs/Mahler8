@@ -1,4 +1,8 @@
-# 第六章｜回到年輕的 Mahler（馬勒）：一架鋼琴能證明朋友教會了他什麼嗎？
+# 回到年輕的馬勒
+
+<p class="chapter-subtitle">一架鋼琴能證明朋友教會了他什麼嗎？</p>
+
+<div class="chapter-meta-terms"><strong>章名詞語對照</strong>：馬勒—Gustav Mahler</div>
 
 1870 年代末，社會主義政治人物 Victor Adler（維克多・阿德勒）在 Vienna（維也納）的 Berggasse 19（貝格巷十九號）招待一群年輕朋友。這個地址後來因精神分析學家 Sigmund Freud（西格蒙德・佛洛伊德）而聞名；在 Gustav Mahler（古斯塔夫・馬勒）的青年史裡，它先是一個有人讀書、爭論、唱歌，也有人替窮學生買鋼琴的房間。
 

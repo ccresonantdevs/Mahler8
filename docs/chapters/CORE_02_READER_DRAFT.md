@@ -1,4 +1,8 @@
-# 第二章｜馬勒為什麼選《Faust》（《浮士德》）：一部尚未寫完就開始被唱的作品
+# 馬勒為什麼選《浮士德》？
+
+<p class="chapter-subtitle">一部尚未寫完就開始被唱的傳奇作品</p>
+
+<div class="chapter-meta-terms"><strong>章名詞語對照</strong>：《浮士德》— <em>Faust</em></div>
 
 1782 年，Johann Wolfgang von Goethe（約翰・沃夫岡・馮・歌德）的《Faust》第一部還沒出版，劇中的〈圖勒王〉已經先被作曲家配上音樂。
 

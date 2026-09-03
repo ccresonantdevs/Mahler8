@@ -1,4 +1,8 @@
-# 第九章｜當一口氣長成全體之聲：《馬勒第八》的巨大尺度做了什麼？
+# 當一口氣長成全體之聲
+
+<p class="chapter-subtitle">《馬勒第八號》的巨大尺度做了什麼？</p>
+
+<div class="chapter-meta-terms"><strong>章名詞語對照</strong>：《第八號交響曲》— <em>Symphonie Nr. 8</em>；「巨大尺度」— <em>monumentality</em></div>
 
 第二部最後的《神祕合唱》，一開始沒有以巨響壓向聽者。音樂學者 Eftychia Papanikolaou 書中重現的譜例標示 *ppp wie ein Hauch*（極弱，像一口氣般），聲音幾乎貼著寂靜出現，之後才逐步擴張成全體的宣稱。
 

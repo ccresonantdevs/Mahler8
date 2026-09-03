@@ -1,4 +1,14 @@
-# 序章｜同一首交響曲，為什麼先唱拉丁祈禱，再走進《浮士德》？
+# 交響曲如何裝下整個宇宙？
+
+<p class="chapter-subtitle">從中世紀聖歌走到現代詩劇的兩千人大哉問</p>
+
+**作者：Nian-Cheng（鄒年城）**
+
+<div class="chapter-meta-terms"><strong>章名詞語對照</strong>：〈來吧，創造者聖靈〉— <em>Veni Creator Spiritus</em>；《浮士德》— <em>Faust</em></div>
+
+::: info 研究與資料說明
+本教材的重要史實、引文與主要詮釋，均依可核對的原始文本與學術研究整理，並區分可證事實、歷史脈絡與後來解讀。資料來源、證據限制與製作方式，請見[附錄｜資料來源與製作說明](/appendix/SOURCES_AND_PRODUCTION_NOTE)。
+:::
 
 《馬勒第八號》一開場，龐大合唱直接唱出：
 

@@ -42,7 +42,7 @@ export default defineConfig({
         text: '📖 導讀首頁',
         items: [
           {
-            text: '<div class="sb-item"><strong class="sb-title">【序章】交響曲如何裝下整個宇宙？</strong><span class="sb-sub">從中世紀聖歌走到現代詩劇的兩千人大哉問</span></div>',
+            text: '<div class="sb-item"><strong class="sb-title">交響曲如何裝下整個宇宙？</strong><span class="sb-sub">從中世紀聖歌走到現代詩劇的兩千人大哉問</span></div>',
             link: '/'
           }
         ]
@@ -52,11 +52,11 @@ export default defineConfig({
         collapsed: false,
         items: [
           {
-            text: '<div class="sb-item"><strong class="sb-title">【第一章】走進維也納</strong><span class="sb-sub">一座城市，幾種互不相讓的未來</span></div>',
+            text: '<div class="sb-item"><strong class="sb-title">走進維也納</strong><span class="sb-sub">一座城市，幾種互不相讓的未來</span></div>',
             link: '/chapters/CORE_01_READER_DRAFT'
           },
           {
-            text: '<div class="sb-item"><strong class="sb-title">【第二章】馬勒為什麼選《浮士德》？</strong><span class="sb-sub">一部尚未寫完就開始被唱的傳奇作品</span></div>',
+            text: '<div class="sb-item"><strong class="sb-title">馬勒為什麼選《浮士德》？</strong><span class="sb-sub">一部尚未寫完就開始被唱的傳奇作品</span></div>',
             link: '/chapters/CORE_02_READER_DRAFT'
           }
         ]
@@ -66,15 +66,15 @@ export default defineConfig({
         collapsed: false,
         items: [
           {
-            text: '<div class="sb-item"><strong class="sb-title">【第三章】讀懂馬勒選中的浮士德</strong><span class="sb-sub">一個永遠不能停下來的人</span></div>',
+            text: '<div class="sb-item"><strong class="sb-title">讀懂馬勒選中的浮士德</strong><span class="sb-sub">一個永遠不能停下來的人</span></div>',
             link: '/chapters/CORE_03_READER_DRAFT'
           },
           {
-            text: '<div class="sb-item"><strong class="sb-title">【第四章】浮士德做過那些事</strong><span class="sb-sub">天使為什麼還要救他？</span></div>',
+            text: '<div class="sb-item"><strong class="sb-title">浮士德做過那些事</strong><span class="sb-sub">天使為什麼還要救他？</span></div>',
             link: '/chapters/CORE_04_READER_DRAFT'
           },
           {
-            text: '<div class="sb-item"><strong class="sb-title">【第五章】「永恆女性」牽引的我們</strong><span class="sb-sub">終場到底包括了誰？</span></div>',
+            text: '<div class="sb-item"><strong class="sb-title">「永恆女性」牽引的我們</strong><span class="sb-sub">終場到底包括了誰？</span></div>',
             link: '/chapters/CORE_05_READER_DRAFT'
           }
         ]
@@ -84,11 +84,11 @@ export default defineConfig({
         collapsed: false,
         items: [
           {
-            text: '<div class="sb-item"><strong class="sb-title">【第六章】回到年輕的馬勒</strong><span class="sb-sub">一架鋼琴能證明朋友教會了他什麼嗎？</span></div>',
+            text: '<div class="sb-item"><strong class="sb-title">回到年輕的馬勒</strong><span class="sb-sub">一架鋼琴能證明朋友教會了他什麼嗎？</span></div>',
             link: '/chapters/CORE_06_READER_DRAFT'
           },
           {
-            text: '<div class="sb-item"><strong class="sb-title">【第七章】走進第一部聖歌</strong><span class="sb-sub">《來吧，創造者聖靈》究竟在祈求什麼？</span></div>',
+            text: '<div class="sb-item"><strong class="sb-title">走進第一部聖歌</strong><span class="sb-sub">《來吧，創造者聖靈》究竟在祈求什麼？</span></div>',
             link: '/chapters/CORE_07_READER_DRAFT'
           }
         ]
@@ -98,15 +98,15 @@ export default defineConfig({
         collapsed: false,
         items: [
           {
-            text: '<div class="sb-item"><strong class="sb-title">【第八章】兩座世界的重疊</strong><span class="sb-sub">兩部《馬勒第八號》如何變成同一部作品？</span></div>',
+            text: '<div class="sb-item"><strong class="sb-title">兩座世界的重疊</strong><span class="sb-sub">兩部《馬勒第八號》如何變成同一部作品？</span></div>',
             link: '/chapters/CORE_08_READER_DRAFT'
           },
           {
-            text: '<div class="sb-item"><strong class="sb-title">【第九章】當一口氣長成全體之聲</strong><span class="sb-sub">《馬勒第八號》的巨大尺度做了什麼？</span></div>',
+            text: '<div class="sb-item"><strong class="sb-title">當一口氣長成全體之聲</strong><span class="sb-sub">《馬勒第八號》的巨大尺度做了什麼？</span></div>',
             link: '/chapters/CORE_09_READER_DRAFT'
           },
           {
-            text: '<div class="sb-item"><strong class="sb-title">【第十章】交響曲、祈禱還是烏托邦？</strong><span class="sb-sub">六個名字如何改變我們聽見的作品</span></div>',
+            text: '<div class="sb-item"><strong class="sb-title">交響曲、祈禱還是烏托邦？</strong><span class="sb-sub">六個名字如何改變我們聽見的作品</span></div>',
             link: '/chapters/CORE_10_READER_DRAFT'
           }
         ]

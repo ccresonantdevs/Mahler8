@@ -1,4 +1,8 @@
-# 第五章｜*Das Ewig-Weibliche*（永恆女性）牽引的「我們」，包括誰？
+# 「永恆女性」牽引的我們
+
+<p class="chapter-subtitle">終場到底包括了誰？</p>
+
+<div class="chapter-meta-terms"><strong>章名詞語對照</strong>：「永恆女性」— <em>Das Ewig-Weibliche</em>；「我們」— <em>uns</em></div>
 
 如果 Johann Wolfgang von Goethe（約翰・沃夫岡・馮・歌德）寫的是「她引領他上升」，結尾會簡單許多。原文偏偏是：
 
