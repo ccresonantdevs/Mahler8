@@ -2,8 +2,6 @@
 
 <p class="chapter-subtitle">一個永遠不能停下來的人</p>
 
-<div class="chapter-meta-terms"><strong>章名詞語對照</strong>：馬勒—<em>Gustav Mahler</em>；浮士德—<em>Faust</em></div>
-
 如果你和魔鬼打賭，條件是：「只要我對任何一刻感到滿足，靈魂就歸你。」你會怎麼度過一生？
 
 浮士德的答案是：永遠不要停下來。

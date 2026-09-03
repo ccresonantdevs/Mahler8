@@ -2,7 +2,7 @@
 
 <p class="chapter-subtitle">一架鋼琴能證明朋友教會了他什麼嗎？</p>
 
-<div class="chapter-meta-terms"><strong>章名詞語對照</strong>：馬勒—<em>Gustav Mahler</em></div>
+<div class="chapter-meta-terms"><strong>詞語對照</strong>：佩爾納斯托弗圈—<em>Pernerstorfer-Kreis</em></div>
 
 走進維也納的貝格巷十九號（Berggasse 19），這座宅邸日後因精神分析學家西格蒙德・佛洛伊德（Sigmund Freud）長居於此而名滿天下。在更早的 1870 年代末，這裡則是年輕的維克多・阿德勒（Victor Adler）熱情款待摯友的聚會客廳。
 

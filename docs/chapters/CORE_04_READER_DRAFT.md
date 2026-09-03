@@ -2,8 +2,6 @@
 
 <p class="chapter-subtitle">天使為什麼還要救他？</p>
 
-<div class="chapter-meta-terms"><strong>章名詞語對照</strong>：浮士德—<em>Faust</em></div>
-
 浮士德死後，沒有迎來一場人間預期的法庭審判。
 
 梅菲斯特（Mephistopheles）帶著群魔守在屍體旁，準備依血書契約接收靈魂。天際卻撒下熾熱的玫瑰花雨，天使趁著群魔大亂之際，迅速搶走了浮士德的不朽靈魂。在飛升的半空中，天使們唱出全劇最著名的天國格言：
