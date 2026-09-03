@@ -2,9 +2,9 @@
 
 <p class="chapter-subtitle">兩部《馬勒第八號》如何變成同一部作品？</p>
 
-<div class="chapter-meta-terms"><strong>章名詞語對照</strong>：馬勒—Gustav Mahler；《第八號交響曲》— <em>Symphonie Nr. 8</em></div>
+<div class="chapter-meta-terms"><strong>章名詞語對照</strong>：《馬勒第八號》— <em>Symphonie Nr. 8</em></div>
 
-第二部的天使唱出《Faust》（《浮士德》）最著名的救贖句之一：「凡持續追求並竭力者，我們能拯救他。」依音樂學者 Eftychia Papanikolaou 的譜面分析，就在這時，第一部的音樂回來了。
+第二部的天使唱出《Faust》（浮士德）最著名的救贖句之一：「凡持續追求並竭力者，我們能拯救他。」依音樂學者 Eftychia Papanikolaou 的譜面分析，就在這時，第一部的音樂回來了。
 
 回來的是曾經承載這兩句拉丁文的材料，並非開場那個最顯眼的呼喊：
 
@@ -69,7 +69,7 @@ Papanikolaou 對總譜的分析，提供了幾個具體的聆聽座標。本書�
 
 ## 歷史留下的空白：Mahler 一開始就知道終點嗎？
 
-完成作品的連接如此緊密，很容易讓人相信 Mahler 從寫下 *Veni Creator Spiritus*（《來吧，創造者聖靈》）的第一刻，就已經計畫好《Faust》終場。現有材料沒有把這幅完美的創作神話交給我們。
+完成作品的連接如此緊密，很容易讓人相信 Mahler 從寫下 *Veni Creator Spiritus*（來吧，創造者聖靈）的第一刻，就已經計畫好《Faust》終場。現有材料沒有把這幅完美的創作神話交給我們。
 
 Mahler 後來把那個夏天描述成 *spiritus creator*（創造者聖靈）攫住自己、全作如閃電般照亮的經驗。這些話能告訴我們，他日後如何理解、如何講述創作；現存草圖與較接近過程的材料，卻呈現出構想曾經移動、重組的痕跡。兩份早期四部方案甚至保留了和最後成品不同的標題。
 

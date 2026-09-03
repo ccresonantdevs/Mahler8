@@ -2,11 +2,11 @@
 
 <p class="chapter-subtitle">六個名字如何改變我們聽見的作品</p>
 
-<div class="chapter-meta-terms"><strong>章名詞語對照</strong>：交響曲—<em>symphony</em>；烏托邦—<em>utopia</em></div>
+<div class="chapter-meta-terms"><strong>章名詞語對照</strong>：交響曲—<em>symphony</em>；祈禱—<em>prayer</em>；烏托邦—<em>utopia</em></div>
 
 替《馬勒第八》寫下一個名稱很容易：交響曲。
 
-麻煩在於，這個正確答案容納不了所有經驗。作品以 *Veni Creator Spiritus*（《來吧，創造者聖靈》）開始，又把 Johann Wolfgang von Goethe（約翰・沃夫岡・馮・歌德）《Faust》（《浮士德》）第二部終場寫成後半；祈禱、戲劇角色與公共合唱進入交響曲，Faust 的責任、外來幫助、Gretchen（格蕾琴）的代求與尚未結束的轉化，也一同進入最後的巨大肯定。
+麻煩在於，這個正確答案容納不了所有經驗。作品以 *Veni Creator Spiritus*（來吧，創造者聖靈）開始，又把 Johann Wolfgang von Goethe（約翰・沃夫岡・馮・歌德）《Faust》（浮士德）第二部終場寫成後半；祈禱、戲劇角色與公共合唱進入交響曲，Faust 的責任、外來幫助、Gretchen（格蕾琴）的代求與尚未結束的轉化，也一同進入最後的巨大肯定。
 
 所以，最後一章不舉行分類比賽。我們把六個常見名稱當成六次觀看：每一次命名都會讓某些關係變清楚，也會把另一些材料推到視野邊緣。這些名稱之間無法完全重疊的部分，正值得保留。
 

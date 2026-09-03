@@ -2,7 +2,7 @@
 
 <p class="chapter-subtitle">一架鋼琴能證明朋友教會了他什麼嗎？</p>
 
-<div class="chapter-meta-terms"><strong>章名詞語對照</strong>：馬勒—Gustav Mahler</div>
+<div class="chapter-meta-terms"><strong>章名詞語對照</strong>：馬勒—<em>Gustav Mahler</em></div>
 
 1870 年代末，社會主義政治人物 Victor Adler（維克多・阿德勒）在 Vienna（維也納）的 Berggasse 19（貝格巷十九號）招待一群年輕朋友。這個地址後來因精神分析學家 Sigmund Freud（西格蒙德・佛洛伊德）而聞名；在 Gustav Mahler（古斯塔夫・馬勒）的青年史裡，它先是一個有人讀書、爭論、唱歌，也有人替窮學生買鋼琴的房間。
 
@@ -32,7 +32,7 @@ Wagner 提供了一個把神話、戲劇、宗教、藝術與公共共同體放�
 
 詩人 Siegfried Lipiner（齊格弗里德・利皮納）於 1874 年和 Heinrich Braun（海因里希・布勞恩）加入圈子，很快成為重要的 Nietzsche 解讀者。他在大學時已被視為哲學神童；1876 年寫成《解放的普羅米修斯》，連 Nietzsche 都高度稱許。隔年，他在閱讀會談〈Schopenhauer 作為教育者〉；1878 年又發表〈當代宗教思想更新的要素〉，借古典悲劇、淨化與 Nietzsche 的問題，追問藝術能否促成宗教更新。
 
-既有研究指出，Mahler 與詩人 Richard von Kralik（理查・馮・克拉利克）約在 1878 年經 Lipiner 進入圈子。Lipiner 後來寫過談 Goethe《Faust》（《浮士德》）藝術革新的文章，也從事波蘭文學的德文翻譯；書信與友人回憶則顯示，他和 Mahler 長期討論藝術與哲學。這些材料使兩人的思想友誼具有歷史輪廓。
+既有研究指出，Mahler 與詩人 Richard von Kralik（理查・馮・克拉利克）約在 1878 年經 Lipiner 進入圈子。Lipiner 後來寫過談 Goethe《Faust》（浮士德）藝術革新的文章，也從事波蘭文學的德文翻譯；書信與友人回憶則顯示，他和 Mahler 長期討論藝術與哲學。這些材料使兩人的思想友誼具有歷史輪廓。
 
 現存資料仍缺少 Lipiner 完整的 Faust 論述、Mahler 青年日記，以及一條從特定談話直通 1906 年《第八號》的文件鏈。研究《馬勒第八》與《浮士德》的音樂學者 Eftychia Papanikolaou 認為，Mahler 的 Faust 觀「可能」早受 Lipiner 形塑；「可能」必須留在句子裡。親密、長期交談與相關閱讀能提高這項推測的合理性，尚未把它變成已證實的作曲原因。
 
@@ -60,4 +60,4 @@ Pernerstorfer 圈的價值，不在替《第八號》找出一位幕後思想作
 
 回到 Berggasse 19 的鋼琴，我們現在知道它能證明什麼：Adler 的實際援助、Mahler 的真實往來，以及思想、政治與音樂曾在日常生活中相遇。它無法替二十多年後的交響曲說出唯一來源。
 
-接著，最穩妥的辦法是離開朋友圈，直接讀 Mahler 實際放進第一部的文字。那首 *Veni Creator Spiritus*（《來吧，創造者聖靈》）向誰祈求？它希望人的心智、身體與共同生活發生什麼改變？
+接著，最穩妥的辦法是離開朋友圈，直接讀 Mahler 實際放進第一部的文字。那首 *Veni Creator Spiritus*（來吧，創造者聖靈）向誰祈求？它希望人的心智、身體與共同生活發生什麼改變？

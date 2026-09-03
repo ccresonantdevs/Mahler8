@@ -74,7 +74,7 @@ export default defineConfig({
             link: '/chapters/CORE_04_READER_DRAFT'
           },
           {
-            text: '<div class="sb-item"><strong class="sb-title">「永恆女性」牽引的我們</strong><span class="sb-sub">終場到底包括了誰？</span></div>',
+            text: '<div class="sb-item"><strong class="sb-title">「永恆女性」牽引的「我們」</strong><span class="sb-sub">終場到底包括了誰？</span></div>',
             link: '/chapters/CORE_05_READER_DRAFT'
           }
         ]

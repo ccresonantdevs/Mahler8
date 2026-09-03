@@ -4,8 +4,6 @@
 
 **作者：Nian-Cheng（鄒年城）**
 
-<div class="chapter-meta-terms"><strong>章名詞語對照</strong>：〈來吧，創造者聖靈〉— <em>Veni Creator Spiritus</em>；《浮士德》— <em>Faust</em></div>
-
 ::: info 研究與資料說明
 本教材的重要史實、引文與主要詮釋，均依可核對的原始文本與學術研究整理，並區分可證事實、歷史脈絡與後來解讀。資料來源、證據限制與製作方式，請見[附錄｜資料來源與製作說明](/appendix/SOURCES_AND_PRODUCTION_NOTE)。
 :::
@@ -15,9 +13,9 @@
 > *Veni, creator Spiritus.*  
 > 來吧，創造者聖靈。
 
-這是 *Veni Creator Spiritus*（《來吧，創造者聖靈》），一首流傳自中世紀的拉丁祈禱。它請聖靈來臨、探訪人心，帶來恩典、光、愛、力量與和平。
+這是 *Veni Creator Spiritus*（來吧，創造者聖靈），一首流傳自中世紀的拉丁祈禱。它請聖靈來臨、探訪人心，帶來恩典、光、愛、力量與和平。
 
-到了第二部，語言和世界都換了。Gustav Mahler（古斯塔夫・馬勒）讓 Johann Wolfgang von Goethe（約翰・沃夫岡・馮・歌德）的《Faust》（《浮士德》）第二部終場接手：Faust 已死，天使從魔鬼手中帶走他的靈魂；曾因他受害的 Gretchen（格蕾琴）重新出現，替他代求，並要求親自教導他。最後，眾聲唱出「永恆女性牽引我們上升」。
+到了第二部，語言和世界都換了。Gustav Mahler（古斯塔夫・馬勒）讓 Johann Wolfgang von Goethe（約翰・沃夫岡・馮・歌德）的《Faust》（浮士德）第二部終場接手：Faust 已死，天使從魔鬼手中帶走他的靈魂；曾因他受害的 Gretchen（格蕾琴）重新出現，替他代求，並要求親自教導他。最後，眾聲唱出「永恆女性牽引我們上升」。
 
 兩份文字相隔約一千年。一份是基督宗教的共同祈禱，一份是現代詩劇中充滿歧義的救贖終場。它們使用不同語言，對人的困境也從不同位置發言。Mahler 為什麼要讓它們共享一首交響曲？
 
