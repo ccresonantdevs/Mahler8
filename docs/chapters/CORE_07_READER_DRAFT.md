@@ -1,7 +1,4 @@
-# 第七章｜走進第一部聖歌
-### 《來吧，創造者聖靈》究竟在祈求什麼？
-
-> 📌 **核心原文對照**：《來吧，創造者聖靈》（*Veni, creator Spiritus*）｜照亮心靈（*Accende lumen sensibus*）｜拉巴努斯・毛魯斯（Hrabanus Maurus）
+# 第七章｜進入第一部：*Veni Creator Spiritus*（《來吧，創造者聖靈》）究竟在祈求什麼？
 
 Gustav Mahler（古斯塔夫・馬勒）後來把 1906 年夏天描述得像一場閃電：*spiritus creator*（創造者聖靈）抓住、搖撼、驅策他，整部作品彷彿只等著被記錄下來。
 

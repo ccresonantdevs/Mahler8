@@ -34,7 +34,8 @@ export default defineConfig({
     logo: '/logo.png',
     nav: [
       { text: '首頁（序章）', link: '/' },
-      { text: '開始閱讀', link: '/chapters/CORE_01_READER_DRAFT' }
+      { text: '開始閱讀', link: '/chapters/CORE_01_READER_DRAFT' },
+      { text: '資料與製作', link: '/appendix/SOURCES_AND_PRODUCTION_NOTE' }
     ],
     sidebar: [
       {
@@ -107,6 +108,20 @@ export default defineConfig({
           {
             text: '<div class="sb-item"><strong class="sb-title">【第十章】交響曲、祈禱還是烏托邦？</strong><span class="sb-sub">六個名字如何改變我們聽見的作品</span></div>',
             link: '/chapters/CORE_10_READER_DRAFT'
+          }
+        ]
+      },
+      {
+        text: '附錄',
+        collapsed: false,
+        items: [
+          {
+            text: '<div class="sb-item"><strong class="sb-title">資料來源與製作說明</strong><span class="sb-sub">證據界線、AI 協作與各章參考方向</span></div>',
+            link: '/appendix/SOURCES_AND_PRODUCTION_NOTE'
+          },
+          {
+            text: '<div class="sb-item"><strong class="sb-title">主要參考文獻</strong><span class="sb-sub">原始文本、Mahler、Faust 與文化史研究</span></div>',
+            link: '/appendix/REFERENCES'
           }
         ]
       }

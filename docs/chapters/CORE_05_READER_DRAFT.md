@@ -1,7 +1,4 @@
-# 第五章｜「永恆女性」牽引的我們
-### 終場到底包括了誰？
-
-> 📌 **核心原文對照**：永恆女性（*Das Ewig-Weibliche*）｜牽引我們上升（*Zieht uns hinan*）｜神祕合唱（*Chorus Mysticus*）
+# 第五章｜*Das Ewig-Weibliche*（永恆女性）牽引的「我們」，包括誰？
 
 如果 Johann Wolfgang von Goethe（約翰・沃夫岡・馮・歌德）寫的是「她引領他上升」，結尾會簡單許多。原文偏偏是：
 

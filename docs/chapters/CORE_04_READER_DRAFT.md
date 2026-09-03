@@ -1,7 +1,4 @@
-# 第四章｜浮士德做過那些事
-### 天使為什麼還要救他？
-
-> 📌 **核心原文對照**：格蕾琴（Gretchen）｜求情者（Una Poenitentium）｜救贖名句（*Wer immer strebend sich bemüht, den können wir erlösen*）
+# 第四章｜Faust（浮士德）做過那些事，天使為什麼還要救他？
 
 Faust 死後，沒有等到一場莊嚴的法庭宣判。
 
