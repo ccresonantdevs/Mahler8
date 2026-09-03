@@ -120,7 +120,7 @@ export default defineConfig({
             link: '/appendix/SOURCES_AND_PRODUCTION_NOTE'
           },
           {
-            text: '<div class="sb-item"><strong class="sb-title">主要參考文獻</strong><span class="sb-sub">原始文本、Mahler、Faust 與文化史研究</span></div>',
+            text: '<div class="sb-item"><strong class="sb-title">主要參考文獻</strong><span class="sb-sub">原始文本、馬勒、浮士德與文化史研究</span></div>',
             link: '/appendix/REFERENCES'
           }
         ]

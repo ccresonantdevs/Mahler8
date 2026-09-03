@@ -1,18 +1,18 @@
 # 主要參考文獻
 
-<p class="chapter-subtitle">原始文本、Mahler、Faust 與文化史研究</p>
+<p class="chapter-subtitle">原始文本、馬勒、浮士德與文化史研究</p>
 
 ## 原始文本與史料
 
 - Goethe, Johann Wolfgang von. *Faust: Der Tragödie zweiter Teil*. Project Gutenberg eBook no. 2230. Released 2000; updated 2020.
 - Goethe, Johann Wolfgang von. *Goethe’s Faust: Parts I and II*. Translated by Albert G. Latham. Historical English translation, digitized edition used.
 
-## Mahler 與《第八號交響曲》研究
+## 馬勒與《第八號交響曲》研究
 
 - Devutsky, Vladislav E. “The Universal Mystery of 1906: The Spiritual Conception of Gustav Mahler’s Eighth Symphony.” 2016, pp. 97–107.
 - Papanikolaou, Eftychia. “Linking Christian and Faustian Utopias: Mahler’s Setting of the *Schlußszene* in His Eighth Symphony.” In *Goethe’s Faust in Music*, edited by Lorraine Byrne Bodley, pp. 183–198. The Boydell Press, 2017.
 
-## Goethe 與《Faust》研究
+## 歌德與《浮士德》研究
 
 - Gillo, Idan. “Die verkehrte Bekehrung in Goethes Faust.” 2013, pp. 464–482.
 - Grey, Thomas S. “Ideas of Redemption and the Total Artwork in Wagner’s Encounters with Faust.” 2019, pp. 117–144.
@@ -22,7 +22,7 @@
 - Trop, Gabriel. “Goethe’s Faust and the Absolute of Naturphilosophie.” *The Germanic Review* 92 (2017): 388–406. https://doi.org/10.1080/00168890.2017.1370951.
 - West, Jane. *Goethe’s Faust and Nineteenth-Century Music: Essays and an Exhibition*. MA thesis, 2015.
 
-## 思想史、文化史與 Mahler 的時代背景
+## 思想史、文化史與馬勒的時代背景
 
 - Batstone, Leah K. *Mahler, Nietzsche and the Pernerstorfer Circle: Philosophical Resonances in the Wunderhorn Symphonies*. PhD dissertation in Musicology, McGill University, 2019.
 - Klautke, Egbert. “Anarchy and Noise: New Perspectives on the History of Fin-de-Siècle Vienna.” *Central Europe* 7, no. 2 (2009): 161–168. https://doi.org/10.1179/147909609X12490449283441.
