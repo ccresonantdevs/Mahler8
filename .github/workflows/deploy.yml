@@ -2,8 +2,7 @@ name: Deploy VitePress site to Pages
 
 on:
   push:
-    tags:
-      - 'v*.*.*'
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -18,11 +17,14 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      should_deploy: ${{ steps.check_release.outputs.should_deploy }}
+      release_version: ${{ steps.check_release.outputs.release_version }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 2
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -36,32 +38,48 @@ jobs:
       - name: Install dependencies
         run: npm ci || npm install
 
-      - name: Validate Release Version Consistency
+      - name: Check Release Version Gate
+        id: check_release
         run: |
-          if [[ "${{ github.ref_type }}" == "tag" ]]; then
-            TAG_VER="${{ github.ref_name }}"
-            PKG_VER="v$(node -p "require('./package.json').version")"
-            echo "Release Tag: $TAG_VER"
-            echo "Package Version: $PKG_VER"
-            if [[ "$TAG_VER" != "$PKG_VER" ]]; then
-              echo "Error: Release tag ($TAG_VER) does not match package.json ($PKG_VER)!"
-              exit 1
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Manual workflow dispatch detected. Allowing deployment."
+            echo "should_deploy=true" >> $GITHUB_OUTPUT
+            echo "release_version=manual" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          if git diff --name-only HEAD~1 HEAD | grep -q "package.json"; then
+            OLD_VER=$(git show HEAD~1:package.json 2>/dev/null | grep '"version"' | head -n 1 || echo "")
+            NEW_VER=$(grep '"version"' package.json | head -n 1 || echo "")
+            echo "Previous: $OLD_VER"
+            echo "Current:  $NEW_VER"
+            if [ "$OLD_VER" != "$NEW_VER" ]; then
+              PKG_VERSION=$(node -p "require('./package.json').version")
+              echo "Version bump confirmed: v$PKG_VERSION"
+              echo "should_deploy=true" >> $GITHUB_OUTPUT
+              echo "release_version=$PKG_VERSION" >> $GITHUB_OUTPUT
+              exit 0
             fi
           fi
+
+          echo "::notice::No version bump in package.json. Skipping deployment to protect production."
+          echo "should_deploy=false" >> $GITHUB_OUTPUT
 
       - name: Build with VitePress
         run: npm run docs:build
 
       - name: Upload artifact
+        if: steps.check_release.outputs.should_deploy == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs/.vitepress/dist
 
   deploy:
+    needs: build
+    if: needs.build.outputs.should_deploy == 'true'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    needs: build
     runs-on: ubuntu-latest
     name: Deploy
     steps:
