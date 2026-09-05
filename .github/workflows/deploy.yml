@@ -2,7 +2,8 @@ name: Deploy VitePress site to Pages
 
 on:
   push:
-    branches: [main]
+    tags:
+      - 'v*.*.*'
   workflow_dispatch:
 
 permissions:
@@ -34,6 +35,19 @@ jobs:
 
       - name: Install dependencies
         run: npm ci || npm install
+
+      - name: Validate Release Version Consistency
+        run: |
+          if [[ "${{ github.ref_type }}" == "tag" ]]; then
+            TAG_VER="${{ github.ref_name }}"
+            PKG_VER="v$(node -p "require('./package.json').version")"
+            echo "Release Tag: $TAG_VER"
+            echo "Package Version: $PKG_VER"
+            if [[ "$TAG_VER" != "$PKG_VER" ]]; then
+              echo "Error: Release tag ($TAG_VER) does not match package.json ($PKG_VER)!"
+              exit 1
+            fi
+          fi
 
       - name: Build with VitePress
         run: npm run docs:build

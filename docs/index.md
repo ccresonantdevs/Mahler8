@@ -2,7 +2,13 @@
 
 <p class="chapter-subtitle">從中世紀聖歌走到現代詩劇的兩千人大哉問</p>
 
-**作者：Nian-Cheng（鄒年城）**
+<div class="doc-meta-bar" style="margin: 0.8rem 0 1.5rem 0; font-size: 0.95rem; color: var(--vp-c-text-2); display: flex; flex-wrap: wrap; gap: 0.8rem; align-items: center;">
+  <span><strong>作者</strong>：Nian-Cheng（鄒年城）</span>
+  <span>·</span>
+  <span style="background: var(--vp-c-brand-soft); color: var(--vp-c-brand-1); padding: 0.15rem 0.5rem; border-radius: 4px; font-weight: 600; font-size: 0.85rem;">v1.0.1</span>
+  <span>·</span>
+  <span>最後修訂：2026-09-05</span>
+</div>
 
 ::: info 研究與資料說明
 本教材的重要史實、文本解讀、譜面關係與思想史背景，主要依據原始文本、歷史文獻，以及國內外學者的專著、論文與學位研究整理。總譜細節若採用特定研究者的分析，正文會明確標示其觀點；由後來回憶或轉述保存的材料，也會交代其來源性質，不視為同時期紀錄。

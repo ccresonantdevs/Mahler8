@@ -35,7 +35,8 @@ export default defineConfig({
     nav: [
       { text: '首頁（序章）', link: '/' },
       { text: '開始閱讀', link: '/chapters/CORE_01_READER_DRAFT' },
-      { text: '資料與製作', link: '/appendix/SOURCES_AND_PRODUCTION_NOTE' }
+      { text: '資料與製作', link: '/appendix/SOURCES_AND_PRODUCTION_NOTE' },
+      { text: '🔖 v1.0.1 (2026-09-05)', link: '/appendix/SOURCES_AND_PRODUCTION_NOTE' }
     ],
     sidebar: [
       {
@@ -134,8 +135,15 @@ export default defineConfig({
       label: '本章目錄',
       level: [2, 3]
     },
+    lastUpdated: {
+      text: '最後更新於',
+      formatOptions: {
+        dateStyle: 'short',
+        timeStyle: 'short'
+      }
+    },
     footer: {
-      message: '馬勒第八號交響曲讀本',
+      message: '馬勒第八號交響曲讀本 · 正式版 v1.0.1（發布日期：2026-09-05）',
       copyright: '作者｜鄒年城'
     }
   }
